@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 !\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/Hello%20World-!-green
