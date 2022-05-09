@@ -9,6 +9,4 @@ devkay07/devkay07 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/devkay07ryo-ma&theme=dracula)]
-
-[![trophy](https://github-profile-trophy.vercel.app/devkay07=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devkay07)](https://github.com/ryo-ma/github-profile-trophy)
