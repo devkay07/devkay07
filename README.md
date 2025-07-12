@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨🏻‍💻 About Me 
 
-- 🔭 &nbsp; I’m currently learning Web Development.
+- 🔭 &nbsp; I’m currently learning ML & AI
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and/or Computer programming.
-- 💼 &nbsp; Front-end web developer.
+- 💼 &nbsp; Data Analyst, Front-end web developer
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -24,8 +24,8 @@ ___
 
 - 💻 &nbsp; Python  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; PyCharm | Visual Studio code | Sublime Text | Acode
+- 🛢 &nbsp; MySQL, Microsoft SQL Server
+- 🔧 &nbsp; PyCharm | Visual Studio code | Sublime Text | Jupiter Notebook | PowerBI | Excel
 
 ___
 
